@@ -1,5 +1,5 @@
 #   Day 1 of DSA Practice problem  
-    Here i sonved three questions. 
+    * Here i sonved three questions. 
 
 1. Maximun and Minimum Elements in Array
    In this problem, I used brute force method to find Minimun number and Maximum number in a give Array, it gives O(n) time complexity.
